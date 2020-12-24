@@ -1,6 +1,6 @@
 ### Hello
-## I like: simulation theory, python, staying home
-## I dislike: entropy, time (they almost the same ik)
+I like: simulation theory, python, staying home
+I dislike: entropy, time (they almost the same ik)
 
 y0n1n1x
 <img align="left" alt="y0n1n1x | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
